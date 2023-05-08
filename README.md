@@ -11,3 +11,4 @@ A few features:
 - FIREBASE AUTHENTICATION (OTP)
 - FIREBASE DATABASE (Rest Api)
 - Splash Screen Startup
+- Google Maps API
